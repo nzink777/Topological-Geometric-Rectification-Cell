@@ -1,0 +1,58 @@
+[
+  {
+    "vertex_id": 0,
+    "6d_vector": [-1, -1, -1, -1, -1, -1],
+    "3d_projection": { "x": -8.6660, "y": 5.9287, "z": -1.0000 },
+    "phase_operator_i": -0.6000,
+    "strand_assignment": "B (Left-Handed / Tamas)"
+  },
+  {
+    "vertex_id": 1,
+    "6d_vector": [-1, -1, -1, -1, -1, 1],
+    "3d_projection": { "x": -10.2982, "y": -2.0484, "z": -0.4688 },
+    "phase_operator_i": 0.0000,
+    "strand_assignment": "B (Left-Handed / Tamas)"
+  },
+  {
+    "vertex_id": 2,
+    "6d_vector": [-1, -1, -1, -1, 1, -1],
+    "3d_projection": { "x": -10.3057, "y": -2.0108, "z": 0.0625 },
+    "phase_operator_i": -0.2000,
+    "strand_assignment": "B (Left-Handed / Tamas)"
+  },
+  {
+    "vertex_id": 3,
+    "6d_vector": [-1, -1, -1, -1, 1, 1],
+    "3d_projection": { "x": -5.7696, "y": -8.7728, "z": 0.5938 },
+    "phase_operator_i": 0.4000,
+    "strand_assignment": "B (Left-Handed / Tamas)"
+  },
+  {
+    "vertex_id": 4,
+    "6d_vector": [-1, -1, -1, 1, -1, -1],
+    "3d_projection": { "x": -10.4283, "y": -1.2227, "z": 1.1250 },
+    "phase_operator_i": -0.4000,
+    "strand_assignment": "B (Left-Handed / Tamas)"
+  },
+  {
+    "vertex_id": 32,
+    "6d_vector": [1, -1, -1, -1, -1, -1],
+    "3d_projection": { "x": 1.4880, "y": -10.3941, "z": 16.0000 },
+    "phase_operator_i": -0.6000,
+    "strand_assignment": "A (Right-Handed / Sattva)"
+  },
+  {
+    "vertex_id": 33,
+    "6d_vector": [1, -1, -1, -1, -1, 1],
+    "3d_projection": { "x": -4.6853, "y": -9.3989, "z": 16.5312 },
+    "phase_operator_i": 0.0000,
+    "strand_assignment": "A (Right-Handed / Sattva)"
+  },
+  {
+    "vertex_id": 63,
+    "6d_vector": [1, 1, 1, 1, 1, 1],
+    "3d_projection": { "x": 10.4283, "y": 1.2227, "z": 35.0000 },
+    "phase_operator_i": 0.6000,
+    "strand_assignment": "A (Right-Handed / Sattva)"
+  }
+]
