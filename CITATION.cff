@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this framework or simulation engine, please cite it as below."
+authors:
+  - family-names: "Zink"
+    given-names: "Natasha"
+    orcid: "https://orcid.org/0009-0004-8640-0896" 
+title: "Shadows of the 7D Solenoid: Hofstadter Butterfly Mapping"
+version: 1.0.0
+doi: "10.5281/zenodo.XXXXXXX" # Replace with the DOI Zenodo just gave you
+date-released: 2026-06-05
+url: "https://github.com/nzink777/Shadows-of-the-7D-Solenoid"
+
+
+
