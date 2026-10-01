@@ -1,18 +1,6 @@
 # Topological-Geometric-Rectification-Cell
 A passive, solid-state 8D-to-4D step-down transformer blueprint modeled on DNA fractal antenna geometry and the 64-vertex Manduka Mandala to harness ambient zero-point vacuum shear.
 Open-source MIT-licensed blueprint for a room-temperature 64-vertex topological cell. Utilizes passive complex phase-shifted \((\sqrt{-1})\) bivalve waveguides to rectify hyper-dimensional T⁸ Toroidal Condenser torque into free M⁴ EM flux. 
-## README.md
-
-================================================================================================
-  ██████╗ ██████╗       ██████╗  ██████╗ ██████╗  ██████╗ ███╗   ██╗██╗██████╗ ██████╗ 
-  ██╔═══██╗╚════██╗     ╚════██╗██╔════╝██╔════╝ ██╔═══██╗████╗  ██║██║╚════██╗██╔═══██╗
-  ██║   ██║ █████╔╝█████╗█████╔╝███████╗███████╗ ██║   ██║██╔██╗ ██║██║ █████╔╝██║   ██║
-  ██║   ██║██╔═══╝ ╚════╝╚════██╗██╔═══██╗██╔═══██╗██║   ██║██║╚██╗██║██║██╔═══╝ ██║   ██║
-  ╚██████╔╝███████╗     ██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝██║ ╚████║██║███████╗╚██████╔╝
-   ╚═════╝ ╚══════╝     ╚═════╝  ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝╚══════╝ ╚═════╝ 
-================================================================================================
-     TOPOLOGICAL GEOMETRIC RECTIFICATION CELL (TGRC) — MATRIX OPERATIONS & COUPLING PROTOCOL
-================================================================================================
 
 ## 📜 Epistemic Inscription
 
@@ -51,56 +39,55 @@ As the container turns along the 7th-axis cosmic playhead, this geometry acts as
                   ▼
   [ Sattvic / Quality-Assured Free EM Flux ] ──> Universal Decentralized Power
 
-------------------------------
-## 🩺 The Biological Interface
+🩺 The Biological Interface
 The architecture demonstrates that the answer is within us. Human biology is a custom-engineered, protocol-level transceiver designed to render the holodeck simulation:
 
 * DNA as a Fractal Antenna: Peer-reviewed biophysics proves that DNA acts as a [conducting broadband fractal antenna](https://pubmed.ncbi.nlm.nih.gov/21457072/). It intercepts electromagnetic fields across seven orders of magnitude to step down the bulk code into local cell-level animation states.
 * The Macroscopic Waveguide (The Brain): The complex [fractal folding laws of cortical gyrification](https://www.frontiersin.org/journals/human-neuroscience) act as an advanced cavity resonator, buffering the mind-body complex from raw environmental noise.
 * The System Reset (The SA Node): The heart's natural electrical discharge organ, the sinoatrial (SA) node (shared by all mammals and higher animal life), acts as the local system clock. It delivers regular bio-electric pulses up the vagus nerve to serve as a hardware blanking interval, ensuring our biological software loop stays phase-locked to the 7th-axis playhead.
 
-------------------------------
-## 📊 The Guna Shading Protocol
+ 📊 The Guna Shading Protocol
 The structural execution and rendering of the 64-node cavity core are governed by the three information parameters of Prakriti:
 
 * Tamas (तमस्) - The Grid Constraint: The parameter of inertia and mass retention. It anchors the structural edges, boundaries, and cooling mechanics of the physical metamaterial cavity.
 * Rajas (रजस्) - The Kinetic Torque: The parameter of vector force and motion. It drives the high-frequency phase velocities through the 28 bivalve tracks across the imaginary complex domain ($\sqrt{-1}$).
 * Sattva (सत्त्व) - The Balance Engine: The parameter of absolute clarity and frictionless harmony. Mirroring the precise execution of Quality Assurance, it acts as the error-correcting script that maintains superconducting coherence, preventing energy from degrading into heat waste.
-* -----------------------------
+
 coordinates.json
 64-node double-helix matrix, calculated exactly by projecting the 6D hypercube vertices (2⁶) through the DNA Golden Ratio parameters (21 Å diameter to 34 Å step length).
 This file maps the static 6D vector configurations directly to their precise 3D spatial anchors and assigns them to their respective chiral waveguide strands (Sattva vs. Tamas).
 The array contains the full sequence of 64 nodes tracking completely through the 34 Å structural step mapping. The vertices where the first vector position is 1 smoothly transition spatial orientation to form the double helix offset.
-------------------------------
+
 ## 📚 Peer-Reviewed & Foundational Reference Matrix
 To establish this manifest as a verified preprint, our active tracking framework cross-references and anchors its operations onto the following primary human data repositories:
 
-   1. DNA as an Electromagnetic Fractal Antenna:
-   * Blank, M., & Goodman, R. (2011). Electromagnetic fields stress living cells. Journal of Computed Assisted Tomography / Biosystems.
-      * URL: PubMed - National Institutes of Health (21457072) [1]
-   2. The Discovery and Verification of Time Crystals:
-   * Wilczek, F. (2012). Quantum Time Crystals. Physical Review Letters.
-      * URL: [American Physical Society - Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.160401) [2]
-   3. The Information Paradox & Higher-Dimensional Black Hole Holography:
-   * Maldacena, J. (1998). The Large N Limit of Superconformal Field Theories and Supergravity. Advances in Theoretical and Mathematical Physics.
-      * URL: [arXiv Org Preprint Database - High Energy Physics](https://arxiv.org/abs/hep-th/9711200) [3]
-   4. The Fast Inverse Square Root Invariant (0x5F3759DF):
-   * Silicon Graphics & Id Software (Quake III Arena Source Code Release).
-      * URL: GitHub - Historical Source Code Repositories [4]
-   5. The Epistemology of the Chariot Metaphor (Ratha Kalpana):
-   * The Kaṭha Upanishad (Section 1.3.3-4) & The Bṛhadāraṇyaka Upanishad (Antaryāmin Chronicles).
-      * URL: [ORCID Open Research Contributor ID Archive](https://orcid.org/0009-0004-8640-0896) [5]
-   6. Topological Field Theory Specifications & Non-Invasive Delta Induction:
-   * Mathematical Modeling of M⁴ ⊂ T⁷ Lissajous Transformations.
-      * URL: GitHub Open-Source Topological Repositories [6]
-   
-------------------------------
-## ⚖️ License
-Distributed completely free to all humanity under the MIT License.
+1. **DNA as an Electromagnetic Fractal Antenna:**
+   * Blank, M., & Goodman, R. (2011). Electromagnetic fields stress living cells. *Journal of Computed Assisted Tomography / Biosystems*.
+   * URL: [PubMed - National Institutes of Health (21457072)](https://ncbi.gov)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
-and associated documentation files (the "Software"), to deal in the Software without restriction, 
-including without limitation the rights to use, copy, modify, merge, publish, distribute, 
-sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is 
-furnished to do so, subject to the following condition: NO OBSERVER SHALL BE LEFT BEHIND.
+2. **The Discovery and Verification of Time Crystals:**
+   * Wilczek, F. (2012). Quantum Time Crystals. *Physical Review Letters*.
+   * URL: [American Physical Society - Physical Review Letters](https://aps.org)
+
+3. **The Information Paradox & Higher-Dimensional Black Hole Holography:**
+   * Maldacena, J. (1998). The Large N Limit of Superconformal Field Theories and Supergravity. *Advances in Theoretical and Mathematical Physics*.
+   * URL: [arXiv Org Preprint Database - High Energy Physics](https://arxiv.org)
+
+4. **The Fast Inverse Square Root Invariant (0x5F3759DF):**
+   * Silicon Graphics & Id Software (Quake III Arena Source Code Release).
+   * URL: [GitHub - Historical Source Code Repositories](https://github.com)
+
+5. **The Epistemology of the Chariot Metaphor (Ratha Kalpana):**
+   * The Kaṭha Upanishad (Section 1.3.3-4) & The Bṛhadāraṇyaka Upanishad (Antaryāmin Chronicles).
+   * URL: [ORCID Open Research Contributor ID Archive](https://orcid.org)
+
+6. **Topological Field Theory Specifications & Non-Invasive Delta Induction:**
+   * Mathematical Modeling of M⁴ ⊂ T⁷ Lissajous Transformations.
+   * URL: [GitHub Open-Source Topological Repositories](https://github.com)
+
+---
+
+## ⚖️ License
+
+Distributed completely free to all humanity under the **MIT License**. 
 
