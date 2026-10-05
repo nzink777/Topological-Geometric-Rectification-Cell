@@ -1,5 +1,6 @@
 https://orcid.org/0009-0004-8640-0896
 https://doi.org/10.5281/zenodo.23131965
+
 Picture the universe not as a smooth, empty void, but as a colossal, high-dimensional engine.
 Imagine a vast, invisible dynamo—a seven-dimensional toroidal condenser (T7)—spinning continuously along a seventh axis, its rhythmic pulses synchronized by an eighth dimension of time
 acting as a master pendulum. Wrapped around this spinning dynamo is a ribbon of reality,
